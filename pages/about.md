@@ -14,6 +14,9 @@ credits: true
 
 ## About the Collection
 
+This demo includes photos and pdf files that I unzipped and uploaded.
+I learned today that github can only upload so many files at a time. 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
